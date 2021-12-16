@@ -1,6 +1,6 @@
 import thread.UserSession;
 import thread.MyThread;
-//import variant_2.UserSession2;
+
 
 public class Main {
     /*
